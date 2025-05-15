@@ -6,8 +6,8 @@ hero:
   name: "QGIProject"
   text: "A Doc for QGIGroup"
   image:
-    src: /idol.png
-    alt: KawaiiIdolPicture
+    src: /yamamoto.jpg
+    alt: Yamamoto
   actions:
     - theme: brand
       text: 文档合集
