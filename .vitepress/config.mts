@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/docs/',
   title: "QGIProject",
   description: "A Doc for QGIGroup",
   lastUpdated: true,
