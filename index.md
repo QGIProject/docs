@@ -5,21 +5,15 @@ layout: home
 hero:
   name: "QGIProject"
   text: "A Doc for QGIGroup"
-  tagline: My great project tagline
+  image:
+    src: ./public/idol.png
+    alt: VitePress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 文档合集
+      link: /tutorial/menu
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: 神人语录之赛博合订本
+      link: /volume/menu
 ---
 

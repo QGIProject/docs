@@ -4,25 +4,35 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "QGIProject",
   description: "A Doc for QGIGroup",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local',
+    },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '教程导览', link: '/tutorial/menu' },
+      { text: '语录合集', link: '/volume/menu' }, 
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '教程',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '目录', link: '/tutorial/menu' },
+        ]
+      },
+      {
+        text: '语录合集',
+        items: [
+          { text: '目录', link: '/volume/menu' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/QGIProject/docs' }
+    ],
   }
 })
