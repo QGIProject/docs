@@ -10,5 +10,5 @@ author: 天音铃
 以下均已时间新-旧顺序记录
 ### 5.22 四翼
 <div align="left">
-<img src=/src/Image_1747907837569.png width=50%>
+<img src=/volume-pictures/Image_1747907837569.png width=50%>
 </div>
