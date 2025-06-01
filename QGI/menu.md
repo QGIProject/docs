@@ -34,3 +34,13 @@ author: 天音铃
 <img src=/QGI-Pics/20250601-zhaomaoniu-20250601113449.png width=50%>
 </div>
             
+### 20250601 ty0
+<div align="left">
+<img src=/QGI-Pics/20250601-ty0-20250601153738.png width=50%>
+</div>
+            
+### 20250601 dz3yu
+<div align="left">
+<img src=/QGI-Pics/20250601-dz3yu-20250601183016.png width=50%>
+</div>
+            
