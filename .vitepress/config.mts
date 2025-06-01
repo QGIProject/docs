@@ -13,7 +13,7 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '教程导览', link: '/tutorial/menu' },
-      { text: '语录合集', link: '/volume/menu' }, 
+      { text: '语录合集', link: '/QGI/menu' },
     ],
 
     sidebar: [
@@ -26,7 +26,7 @@ export default defineConfig({
       {
         text: '语录合集',
         items: [
-          { text: '目录', link: '/volume/menu' },
+          { text: '目录', link: '/QGI/menu' },
         ]
       }
     ],

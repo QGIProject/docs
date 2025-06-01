@@ -14,6 +14,6 @@ hero:
       link: /tutorial/menu
     - theme: alt
       text: 神人语录之赛博合订本
-      link: /volume/menu
+      link: /QGI/menu
 ---
 
