@@ -5,7 +5,7 @@ author: 天音铃
 
 # 合订本
 ## 专页
-
+[storyxy3的精选专辑](/QGI/luguanluguan.md)
 ## 散记
 ### 5.22 zhaomaoniu
 <div align="left">

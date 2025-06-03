@@ -5,6 +5,7 @@ export default defineConfig({
   title: "QGIProject",
   description: "A Doc for QGIGroup",
   lastUpdated: true,
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
