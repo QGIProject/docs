@@ -49,3 +49,8 @@ author: 天音铃
 <img src=/QGI-Pics/20250601-ty0-20250601202507.png width=50%>
 </div>
             
+### 20250603 ty0
+<div align="left">
+<img src=/QGI-Pics/20250603-ty0-20250603141905.png width=50%>
+</div>
+            
