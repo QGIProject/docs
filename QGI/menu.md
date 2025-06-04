@@ -3,8 +3,6 @@ title: 合订本目录
 author: 天音铃
 ---
 
-<Meme name="qgi" />
-
 # 合订本专页
 [storyxy3的精选专辑](/QGI/luguanluguan.md)
 # 合订本散记
