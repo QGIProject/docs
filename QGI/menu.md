@@ -58,3 +58,8 @@ author: 天音铃
 <img src=/QGI-Pics/20250603-storyxy3-20250603142529.png width=50%>
 </div>
             
+### 20250606 ty0&zhaomaoniu
+<div align="left">
+<img src=/QGI-Pics/20250606-ty0&zhaomaoniu-20250606110804.png width=50%>
+</div>
+            
