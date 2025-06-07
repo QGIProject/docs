@@ -4,6 +4,8 @@ author: 天音铃
 ---
 
 # 合订本专页
+[棱镜的化学复习笔记](/QGI/chemistry.md)
+
 [storyxy3的精选专辑](/QGI/luguanluguan.md)
 # 合订本散记
 ## 5.22 zhaomaoniu
